@@ -1,0 +1,10 @@
+{
+    "Yes": {
+        "path": "images/Yes.txt",
+        "label": 0
+    },
+    "No": {
+         "path": "images/No.txt",
+         "label": 1
+    }
+}
